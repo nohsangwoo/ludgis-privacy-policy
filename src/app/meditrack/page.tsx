@@ -1,6 +1,4 @@
-'use client'
 
-import { useState } from 'react';
 
 export default function MeditrackPrivacyPolicy() {
     const sections = [

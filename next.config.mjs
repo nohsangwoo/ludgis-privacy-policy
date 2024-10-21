@@ -2,7 +2,7 @@
 const nextConfig = {
   trailingSlash: true,
   output: 'export',
-  siteUrl: process.env.SITE_URL || 'https://privacypolicy.ludgi.ai',
+  siteUrl: process.env.SITE_URL || 'https://privacy-policy.ludgi.ai',
   generateRobotsTxt: true, // (optional)
 }
 
